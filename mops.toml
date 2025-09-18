@@ -1,0 +1,10 @@
+[package]
+name = "blake3"
+version = "0.1.0"
+description = "A motoko implementation of the BLAKE3 cryptographic hash function."
+repository = "https://github.com/codecustard/blake3"
+keywords = [ "blake3", "hash", "crypto", "hoosat", "address" ]
+license = "MIT"
+
+[dev-dependencies]
+test = "2.1.1"
