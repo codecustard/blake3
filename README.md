@@ -19,7 +19,7 @@ Add to your `mops.toml`:
 
 ```toml
 [dependencies]
-blake3 = "1.0.0"
+blake3 = "0.1.2"
 ```
 
 ### Basic Usage
